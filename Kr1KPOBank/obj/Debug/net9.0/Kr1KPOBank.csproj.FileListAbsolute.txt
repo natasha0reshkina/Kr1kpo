@@ -1,0 +1,14 @@
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/bin/Debug/net9.0/Kr1KPOBank
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/bin/Debug/net9.0/Kr1KPOBank.deps.json
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/bin/Debug/net9.0/Kr1KPOBank.runtimeconfig.json
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/bin/Debug/net9.0/Kr1KPOBank.dll
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/bin/Debug/net9.0/Kr1KPOBank.pdb
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/obj/Debug/net9.0/Kr1KPOBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/obj/Debug/net9.0/Kr1KPOBank.AssemblyInfoInputs.cache
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/obj/Debug/net9.0/Kr1KPOBank.AssemblyInfo.cs
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/obj/Debug/net9.0/Kr1KPOBank.csproj.CoreCompileInputs.cache
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/obj/Debug/net9.0/Kr1KPOBank.dll
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/obj/Debug/net9.0/refint/Kr1KPOBank.dll
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/obj/Debug/net9.0/Kr1KPOBank.pdb
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/obj/Debug/net9.0/Kr1KPOBank.genruntimeconfig.cache
+/Users/nataliiaoreshkina/RiderProjects/Kr1KPOBank/Kr1KPOBank/obj/Debug/net9.0/ref/Kr1KPOBank.dll
