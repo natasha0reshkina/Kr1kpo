@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Kr1KPOBank/1.0.0": {
+        "runtime": {
+          "Kr1KPOBank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kr1KPOBank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
